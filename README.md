@@ -27,3 +27,4 @@ To run the Higher or Lower Game on your local machine, follow these steps:
 
    ```bash
    pip install Flask
+# Higher-or-Lower-Game
